@@ -63,7 +63,7 @@ Thank you for visiting my profile 😊
   <a href="mailto:husein.mahmud03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://huseinibnu.github.io/my-portfolio/" target="_blank">
+  <a href="https://huseinibnumahmud.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
