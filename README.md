@@ -57,9 +57,9 @@ My research interests include **Artificial Intelligence, Computer Vision, Medica
 
 Selected publications include research on:
 
-* Valvular heart disease classification from Doppler echocardiography videos
-* Machine learning for stunting detection and child height prediction
-* Electronic early detection for stunting prevention
+* Application of Deep Learning for The Classification of Valvular Heart Diseases in Doppler Echocardiography Videos
+* Leveraging Machine Learning Techniques for Stunting Detection and Height Growth Prediction in Children Aged 0-5 Years
+* Pengaruh Deteksi Dini Elektronik (DEDEL) Terhadap Pengatahuan dan Sikap Ibu Dalam Pencegahan Stunting
 
 ---
 
